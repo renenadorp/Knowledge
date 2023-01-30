@@ -158,6 +158,15 @@ _Deliverable_
 
 Output of this workshop is input for Change & Adoption
 
+## Overall Output of Impact Phase
+- One Pager
+- High level planning (e.g. 5 sprints of 2 weeks, and deliverables)
+- Strategy
+- Solution Architecture
+- Roadmap & Backlog
+- Projectorganisation en collaboration structure
+- Maintenance & Support Strategy
+
 
 # Initiation
 
