@@ -1,0 +1,4 @@
+- Version Control: No
+- Native integration with Power BI: No
+- Integration by API: Yes (e.g. https://learn.microsoft.com/en-us/rest/api/purview/catalogdataplane/glossary/list-glossary-terms?tabs=HTTP)
+- 
