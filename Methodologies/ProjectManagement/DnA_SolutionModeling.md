@@ -1,6 +1,6 @@
 ---
 status: DRAFT
-author: René Nadorp?
+author: René Nadorp
 ---
 
 Document status: {{status}}
