@@ -14,7 +14,6 @@
   - [Main Page](/Technologies/)
   - [Azure](/Technologies/Azure/)
   - [Cloud](/Technologies/Cloud/)
-  - [Snippets](/Technologies/CodeSnippets/)
   - [Azure](/Technologies/Azure/)
   - [Data Science](/Technologies/DataScience/)
   - [Data Visualization](/Technologies/DataVisualization/)
