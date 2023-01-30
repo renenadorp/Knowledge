@@ -1,0 +1,2 @@
+[RM:: [Zero Trust Guidance Center | Microsoft Docs](https://docs.microsoft.com/en-us/security/zero-trust/#guiding-principles-of-zero-trust)]
+[RM:: [Adopting a Zero Trust approach throughout the lifecycle of data - Microsoft Security Blog](https://www.microsoft.com/security/blog/2021/11/17/adopting-a-zero-trust-approach-throughout-the-lifecycle-of-data/)]
