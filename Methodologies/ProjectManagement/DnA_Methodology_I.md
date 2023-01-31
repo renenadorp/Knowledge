@@ -37,7 +37,7 @@ Before starting these workshops information is collected:
 1. Architecture & Governance
 1. Planning & Organisation
 1. Backlog & Roadmap
-1. Chabnge & Adoption
+1. Change & Adoption
 1. Operations
 1. Data Driven Organisation
 
