@@ -15,12 +15,8 @@ flowchart LR
 # Phase - Inspiration
 
 # Phase - Impact
-During this phase a standard approach is applied, which consists of the following workshops
-1. Strategy
-1. Architecture & Governance
-1. 
-
-0. Pre Workshops
+During this phase a standard approach is applied, which consists a number of workshops per topic. 
+Before starting these workshops information is collected:
 - In advance, talking to a few key contacts, a stakeholder map is compiled, indicating interest vs influence regarding the overall project.
 - Mission
 - Strategy
@@ -35,6 +31,27 @@ During this phase a standard approach is applied, which consists of the followin
 - Stakeholders 
 - Policies regarding security, privacy
 - Architecture principles
+
+## Workshops
+1. Strategy
+1. Architecture & Governance
+1. Planning & Organisation
+1. Backlog & Roadmap
+1. Chabnge & Adoption
+1. Operations
+1. Data Driven Organisation
+
+Overall Output:
+- One Pager
+- High level planning (e.g. 5 sprints of 2 weeks, and deliverables)
+- Strategy
+- Solution Architecture
+- Roadmap & Backlog
+- Projectorganisation en collaboration structure
+- Maintenance & Support Strategy
+
+The contents of the workshops are described in more detail below.
+
 
 ### Workshop: Strategy  
 _Topics_
@@ -158,14 +175,7 @@ _Deliverable_
 
 Output of this workshop is input for Change & Adoption
 
-## Overall Output of Impact Phase
-- One Pager
-- High level planning (e.g. 5 sprints of 2 weeks, and deliverables)
-- Strategy
-- Solution Architecture
-- Roadmap & Backlog
-- Projectorganisation en collaboration structure
-- Maintenance & Support Strategy
+
 
 
 # Initiation
