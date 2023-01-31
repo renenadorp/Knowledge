@@ -14,7 +14,7 @@
   - [Main Page](/Technologies/)
   - [Azure](/Technologies/Azure/)
   - [Cloud](/Technologies/Cloud/)
-  - [Azure](/Technologies/Azure/)
+  - [D3](/Technologies/D3/)
   - [Data Science](/Technologies/DataScience/)
   - [Data Visualization](/Technologies/DataVisualization/)
   - [Django](/Technologies/Django/)
@@ -22,7 +22,7 @@
   - [Git](/Technologies/Git/)
   - [Linux](/Technologies/Linux/)
   - [Snowflake](/Technologies/Snowflake/)
-    - [Snowflake Code Snippets](/Technologies/Snowflake/CodeSnippets.md)
+    - [Snowflake Code Snippets](/Technologies/Snowflake/SnowflakeSnippets.md)
 
 - **Methodologies**
   - [Main Page](/Methodologies/)
