@@ -36,7 +36,7 @@ During this phase a standard approach is applied, which consists of the followin
 - Policies regarding security, privacy
 - Architecture principles
 
-### Workshop Strategy  
+### Workshop: Strategy  
 _Topics_
 - Rationale 
 - Scope 
@@ -58,7 +58,7 @@ _Deliverable_
 The output of this workshop is a document (chapter) and a presentation.
 
 
-### Workshop Architecture & Governance
+### Workshop: Architecture & Governance
 _Topics_
 - Recap data strategy
 - Infra and Networking Requirements
@@ -98,7 +98,7 @@ The output of this workshop is a document (chapter) and a presentation.
 The document describes the **Solution Architecture**
 
 
-## Workshop Planning & Organisation
+## Workshop: Planning & Organisation
 _Topics_
 - Scope
 - Roles and Responsibilities
@@ -116,12 +116,12 @@ _Topics_
     - Branching strategy
     - Environments
 
-## Workshop Backlog & Roadmap
+## Workshop: Backlog & Roadmap
 _Topics_
 - Epics and Prio
 - Create stories for Prio 1 / Coming quarter
 
-## Workshop Change & Adoption
+## Workshop: Change & Adoption
 _Topics_
 - Communication
 - Channels
@@ -132,7 +132,7 @@ _Method_
 - Training
 
 
-## Workshop Operations
+## Workshop: Operations
 Difference between maintenance and support.
 
 _Topics_
@@ -144,7 +144,7 @@ _Topics_
 
 _Method_
 
-## Data Driven Organisation
+## Workshop: Data Driven Organisation
 _Topics_
 For topics below define current and ambition level
 - Culture & Humans

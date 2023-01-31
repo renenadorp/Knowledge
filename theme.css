@@ -72,3 +72,7 @@ img[alt*="github stars" i] {
   .github-corner { pointer-events: none; }
   .github-corner path { pointer-events: all; }
 }
+
+iframe {
+  border: 0px;
+}

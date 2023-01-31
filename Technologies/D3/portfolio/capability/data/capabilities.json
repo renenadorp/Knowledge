@@ -1,0 +1,88 @@
+{
+    "name": "Dataplatform & Analytics",
+    "rate": 0.03,
+    "children": [
+      {
+        "name": "Dataplatform",
+        "rate": -0.01,
+        "children": [
+          {
+            "name": "DP-1",
+            "rate": 0,
+            "children": [
+              {
+                "name": "DP-1-1",
+                "rate": 0.02,
+                "value": 47.1
+              },
+              {
+                "name": "DP-1-2",
+                "rate": -2.92,
+                "value": 0.21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Business Analytics",
+        "rate": -0.05,
+        "children": [
+          {
+            "name": "BA-1",
+            "rate": -0.07,
+            "children": [
+              {
+                "name": "BA-2",
+                "rate": 1,
+                "value": 0.01
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Data Science",
+        "rate": 0.02,
+        "children": [
+          {
+            "name": "DS-1",
+            "rate": 0.02,
+            "children": [
+              {
+                "name": "DS-2",
+                "rate": -0.14,
+                "value": 1.32
+              },
+              {
+                "name": "DS-3",
+                "rate": 0.02,
+                "value": 328.73
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Funding",
+        "rate": 0.05,
+        "children": [
+          {
+            "name": "F-1",
+            "rate": 0.07,
+            "children": [
+              {
+                "name": "F1-1",
+                "rate": 1,
+                "value": 0.02
+              },
+              {
+                "name": "F1-2",
+                "rate": 0.07,
+                "value": 75.1
+              }
+            ]
+          }
+        ]
+      } ]
+  }
