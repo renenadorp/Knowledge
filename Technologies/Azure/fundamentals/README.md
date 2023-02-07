@@ -1,2 +1,0 @@
-# AZURE Fundamentals
-

@@ -1,3 +1,0 @@
-- **Modeling**
-  - [Data Modeling](DataModeling)
-
