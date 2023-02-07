@@ -1,0 +1,1 @@
+[Troubleshoot your connections in Microsoft Purview - Microsoft Purview | Microsoft Learn](https://learn.microsoft.com/en-us/azure/purview/troubleshoot-connections?wt.mc_id=mspurview_inproduct_learnmoreerrorlinks_troubleshootscanconnection_csadai)
