@@ -4,6 +4,7 @@
   - [Main Page](/KnowledgeAreas/)
   - [Data Governance](/KnowledgeAreas/DataGovernance/)
     - [DMBOK2](/KnowledgeAreas/DataGovernance/DMBOK2/)    
+      - [DMBOK2 Book](/KnowledgeAreas/DataGovernance/DMBOK2/DMBOK2_Book/)
       - [Data Management](/KnowledgeAreas/DataGovernance/DataManagement/)
       - [Data Quality](/KnowledgeAreas/DataGovernance/DataQuality/)
       - [Privacy](/KnowledgeAreas/DataGovernance/Privacy/)
