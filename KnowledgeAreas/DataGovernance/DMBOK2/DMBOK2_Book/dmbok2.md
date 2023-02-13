@@ -1196,7 +1196,7 @@ FIG URE S A ND TAB LE S • 1 3
 
 ######## 15 {#section .unnumbered}
 
-> C H AP T ER 1
+# C H AP T ER 1
 
 ## Data Management {#data-management .unnumbered}
 
@@ -2951,13 +2951,11 @@ DATA MAN AGE MENT • 4 7
 > Work for the Common Core State Standards*. 2nd ed. Advanced Learning
 > Press, 2011. Print.
 >
-> C H AP T ER 2
-
-## Data Handling Ethics {#data-handling-ethics .unnumbered}
+# CHAPTER 2 - Data Handling Ethics 
 
 ##### Introduction
 
-> efined simply, *ethics* are principles of behavior based on ideas of
+> Defined simply, *ethics* are principles of behavior based on ideas of
 > right and wrong. Ethical principles often focus on ideas such as
 > fairness, respect, responsibility, integrity, quality, reliability,
 > transparency, and trust. Data handling ethics are concerned with how
@@ -4209,9 +4207,7 @@ DATA HAN DLIN G ETH ICS • 6 5
 > Machine Learning Tools and Techniques*. 3rd ed. Morgan Kaufmann, 2011.
 > Print. Morgan Kaufmann Series in Data Management Systems.
 >
-> C H AP T ER 3
->
-> Data Governance
+# CHAPTER 3 - Data Governance
 
 ![](media/media/image17.png){width="3.75in"
 height="3.993333333333333in"}
@@ -6074,9 +6070,7 @@ DATA GOV ERNA NCE • 9 5
 > and Risk KPI Dictionary: 130+ Key Performance Indicator Definitions*.
 > CreateSpace Independent Publishing Platform, 2015. Print.
 >
-> C H AP T ER 4
-
-## Data Architecture {#data-architecture .unnumbered}
+# CHAPTER 4 - Data Architecture {#data-architecture .unnumbered}
 
 ![](media/media/image43.png){width="3.703333333333333in"
 height="4.006666666666667in"}
@@ -7458,9 +7452,7 @@ DATA ARCHITE CTUR E • 1 2 1
 > Transformation: Architecture-Driven Modernization Case Studies*.
 > Morgan Kaufmann, 2010. Print. The MK/OMG Press.
 >
-> C H AP T ER 5
-
-## Data Modeling and Design {#data-modeling-and-design .unnumbered}
+# CHAPTER 5 - Data Modeling and Design 
 
 ![](media/media/image52.png){width="3.6566666666666667in"
 height="4.006666666666667in"}
@@ -10096,9 +10088,7 @@ height="1.13in"}
 > Database Technology*. Springer, 2000. Print. Watson, Richard T. *Data
 > Management: Databases and Organizations*. 5th ed. Wiley, 2005. Print.
 >
-> C H AP T ER 6
-
-## Data Storage and Operations {#data-storage-and-operations .unnumbered}
+# CHAPTER 6 - Data Storage and Operations 
 
 ![](media/media/image101.png){width="3.703333333333333in"
 height="4.006666666666667in"}
@@ -12856,12 +12846,9 @@ height="1.953332239720035in"}
 > X, and iCloud*. 2nd ed. Pragmatic Bookshelf, 2013. Print. Pragmatic
 > Programmers.
 >
-> C H AP T ER 7
+# CHAPTER 7 - Data Security {#data-security .unnumbered}
 
-## Data Security {#data-security .unnumbered}
-
-![](media/media/image130.png){width="3.703333333333333in"
-height="4.006666666666667in"}
+![](media/media/image130.png)
 
 ##### Introduction
 
@@ -15825,9 +15812,7 @@ DATA SE CUR ITY • 2 6 7
 > and Implement Effective PCI Data Security Standard Compliance*. 4th
 > ed. Syngress, 2014. Print.
 >
-> C H AP T ER 8
-
-## Data Integration and Interoperability {#data-integration-and-interoperability .unnumbered}
+# CHAPTER 8 - Data Integration and Interoperability 
 
 ![](media/media/image135.png){width="3.49in"
 height="3.8066666666666666in"}
@@ -17733,12 +17718,9 @@ height="2.986665573053368in"}
 > Zhao, Liang, Sherif Sakr, Anna Liu, and Athman Bouguettaya. *Cloud
 > Data Management*. Springer; 2014. Print.
 >
-> C H AP T ER 9
+# CHAPTER 9 - Document and Content Management 
 
-## Document and Content Management {#document-and-content-management .unnumbered}
-
-![](media/media/image142.png){width="3.73in"
-height="4.006666666666667in"}
+![](media/media/image142.png)
 
 ##### Introduction
 
@@ -20265,9 +20247,7 @@ height="2.8433333333333333in"}
 > SECOFM-USGAAPT-TechnicalGuide. Version 1.0. April 28, 2008
 > [http://bit.ly/2rRauZt.](http://bit.ly/2rRauZt)
 >
-> C H AP T ER 1 0
-
-## Reference and Master Data {#reference-and-master-data .unnumbered}
+# CHAPTER 10 - Reference and Master Data 
 
 ![](media/media/image148.png){width="3.756666666666667in"
 height="4.003333333333333in"}
@@ -22456,9 +22436,7 @@ height="4.003333333333333in"}
 > for Big Data*. Morgan Kauffman, 2015. Print. Talburt, John. *Entity
 > Resolution and Information Quality*. Morgan Kaufmann, 2011. Print.
 >
-> C H AP T ER 1 1
-
-## Data Warehousing and Business Intelligence {#data-warehousing-and-business-intelligence .unnumbered}
+# CHAPTER 11 - Data Warehousing and Business Intelligence 
 
 ![](media/media/image152.png){width="3.77in"
 height="4.006666666666667in"}
@@ -24543,9 +24521,7 @@ height="6.1866666666666665in"}
 > Wremble, Robert and Christian Koncilia. *Data Warehouses and Olap:
 > Concepts, Architectures and Solutions*. IGI Global, 2006. Print.
 >
-> C H AP T ER 1 2
-
-## Metadata Management {#metadata-management .unnumbered}
+# CHAPTER 12 - Metadata Management 
 
 ![](media/media/image159.png){width="3.756666666666667in"
 height="4.006666666666667in"}
@@ -26458,9 +26434,7 @@ METADATA M ANA GEME NT • 4 4 7
 > Zeng, Marcia Lei and Jian Qin. *Metadata*. 2nd ed. ALA Neal-Schuman,
 > 2015. Print.
 >
-> C H AP T ER 1 3
-
-## Data Quality {#data-quality .unnumbered}
+# CHAPTER 13 - Data Quality 
 
 ![](media/media/image168.png){width="3.716666666666667in"
 height="4.006666666666667in"}
@@ -29538,9 +29512,7 @@ DATA QUA LIT Y • 4 9 5
 > Witt, Graham. *Writing Effective Business Rules: A Practical Method*.
 > Morgan Kaufmann, 2012. Print.
 >
-> C H AP T ER 1 4
-
-## Big Data and Data Science {#big-data-and-data-science .unnumbered}
+# CHAPTER 14 - Big Data and Data Science
 
 ##### Introduction
 
@@ -31552,9 +31524,7 @@ height="3.406665573053368in"}
 > van Rijmenam, Mark. *Think Bigger: Developing a Successful Big Data
 > Strategy for Your Business*. AMACOM, 2014. Print.
 >
-> C H AP T ER 1 5
-
-## Data Management Maturity Assessment {#data-management-maturity-assessment .unnumbered}
+# CHAPTER 15 - Data Management Maturity Assessment 
 
 ##### Introduction
 
@@ -32824,9 +32794,7 @@ Security
 > Van Haren Publishing. *IT Capability Maturity Framework IT-CMF*. Van
 > Haren Pub, 2015. Print.
 >
-> C H AP T ER 1 6
-
-## Data Management Organization and Role Expectations {#data-management-organization-and-role-expectations .unnumbered}
+# CHAPTER 16 - Data Management Organization and Role Expectations 
 
 ##### Introduction
 
@@ -34030,7 +33998,7 @@ height="3.2866666666666666in"}
 > Schools*. John Catt Educational Ltd, 2012. Print. Effective
 > International Schools Ser.
 >
-> C H AP T ER 1 7
+# CHAPTER 1 7
 
 ## Data Management and Organizational Change Management {#data-management-and-organizational-change-management .unnumbered}
 
