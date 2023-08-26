@@ -1,6 +1,12 @@
-> ![](media/media/image1.png){width="6.452145669291339in"
-> height="8.35in"}
->
+title: DMBOK2
+date: 2010-12-03 10:20
+modified: 2010-12-05 19:30
+category: Python
+tags: pelican, publishing
+slug: my-super-post
+authors: Alexis Metaireau, Conan Doyle
+summary: Short version for index and feeds
+
 > T e c h n i c s P u b l i c a t i o ns
 
 ####### B A S K I N G R I D G E , N E W J E R S E Y {#b-a-s-k-i-n-g-r-i-d-g-e-n-e-w-j-e-r-s-e-y .unnumbered}
@@ -6070,7 +6076,7 @@ DATA GOV ERNA NCE • 9 5
 > and Risk KPI Dictionary: 130+ Key Performance Indicator Definitions*.
 > CreateSpace Independent Publishing Platform, 2015. Print.
 >
-# CHAPTER 4 - Data Architecture {#data-architecture .unnumbered}
+# CHAPTER 4 - Data Architecture 
 
 ![](media/media/image43.png){width="3.703333333333333in"
 height="4.006666666666667in"}
@@ -6261,9 +6267,7 @@ DATA ARCHITE CTUR E • 9 9
 
 -   Data Modelers
 
-![](media/media/image45.png){width="0.13488845144356956in"
-height="0.15666666666666668in"}
-
+![](media/media/image45.png)
 > Technical Drivers
 >
 > **Tools**:
